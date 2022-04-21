@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feet-and-inches-to-centimeters.iml" filepath="$PROJECT_DIR$/feet-and-inches-to-centimeters.iml" />
     </modules>
   </component>
 </project>
